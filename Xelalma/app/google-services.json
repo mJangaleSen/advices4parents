@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "973147040856",
+    "firebase_url": "https://advices-e1c7a.firebaseio.com",
+    "project_id": "advices-e1c7a",
+    "storage_bucket": "advices-e1c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973147040856:android:712ea5235ca12f46",
+        "android_client_info": {
+          "package_name": "dev.mjangale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973147040856-cqg9tieh9qv7smdcdvrgd8k7gsr0m1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-M_w2V-26TBQQg-3YA1rUEfyGaUwWm3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

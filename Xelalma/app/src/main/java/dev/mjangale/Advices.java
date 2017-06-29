@@ -8,6 +8,7 @@ public class Advices {
 
     private String classe;
     private String advice;
+    private String logo;
 
     public Advices(String classe, String advice) {
         this.classe = classe;
@@ -32,6 +33,14 @@ public class Advices {
 
     public void setAdvice(String advice) {
         this.advice = advice;
+    }
+
+    public String getLogo() {
+        return logo;
+    }
+
+    public void setLogo(String logo) {
+        this.logo = logo;
     }
 
     public Advices() {

@@ -3,7 +3,7 @@
     android:orientation="vertical" android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:padding="10dp"
-    android:background="208a71">
+    android:background="#208a71">
 
     <ImageView
         android:id="@+id/appLogo"
@@ -19,7 +19,7 @@
         android:layout_gravity="center_horizontal"
         android:paddingTop="5dp"
         android:text="test"
-        android:textColor="208a71"
+        android:textColor="#208a71"
         android:textSize="13sp"
         android:textStyle="bold" />
 
